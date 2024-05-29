@@ -26,3 +26,5 @@ Key Technologies and Skills
 - Matplotlib
 - Seaborn
 - Streamlit
+
+- https://docs.google.com/document/d/1Zp4ZWYfN8G8UuW-oDHHR1KVySvsM265lA_WIpYRHT0c/edit
